@@ -1,4 +1,13 @@
 # 8-Puzzle
+### The following searach algorithms are implemented:
+* Breadth-first search
+* Depth-first searach
+* Iterative deepening DFS search
+* Uniform-Cost search
+* Best-first search, h = number of tiles that are not it correct position
+* A*1 search, h = number of tiles that are not it correct position
+* A*2 search, h = sum of Manhattan distances between all tiles and their correct positions
+* A*3 search, h = fair Manhattan distance
 
 ### Example:
 Initial state<br>
