@@ -1,7 +1,7 @@
 # 8-Puzzle
 ### The following searach algorithms are implemented:
 * Breadth-first search
-* Depth-first searach
+* Depth-first search
 * Iterative deepening DFS search
 * Uniform-Cost search
 * Best-first search, h = number of tiles that are not it correct position
